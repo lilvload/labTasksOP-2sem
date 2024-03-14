@@ -4,3 +4,9 @@ E:\Work\programming\RiderProjects\labTasks\labTasks\lab-3\task-3\obj\Debug\task-
 E:\Work\programming\RiderProjects\labTasks\labTasks\lab-3\task-3\obj\Debug\task-3.csproj.CoreCompileInputs.cache
 E:\Work\programming\RiderProjects\labTasks\labTasks\lab-3\task-3\obj\Debug\task_3.exe
 E:\Work\programming\RiderProjects\labTasks\labTasks\lab-3\task-3\obj\Debug\task_3.pdb
+E:\Work\programming\RiderProjects\labTasks\lab-3\task-3\bin\Debug\task_3.exe
+E:\Work\programming\RiderProjects\labTasks\lab-3\task-3\bin\Debug\task_3.pdb
+E:\Work\programming\RiderProjects\labTasks\lab-3\task-3\obj\Debug\task-3.csproj.AssemblyReference.cache
+E:\Work\programming\RiderProjects\labTasks\lab-3\task-3\obj\Debug\task-3.csproj.CoreCompileInputs.cache
+E:\Work\programming\RiderProjects\labTasks\lab-3\task-3\obj\Debug\task_3.exe
+E:\Work\programming\RiderProjects\labTasks\lab-3\task-3\obj\Debug\task_3.pdb
